@@ -1,0 +1,13 @@
+package com.greatlearning.StudentManagementWebSecurity;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class StudentManagementWebSecurityApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
